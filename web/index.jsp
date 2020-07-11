@@ -17,7 +17,7 @@
     密 码：<label>
     <input type="password" name="password">
 </label><br>
-    <%--<button type="button">注册</button>--%>
+    <button type="button">注册</button>
     <input type="submit">
 
 </form>
